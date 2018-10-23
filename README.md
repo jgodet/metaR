@@ -1,9 +1,9 @@
-## R/jgodet/metaR
+## metaR
 
 
 ---
 
-metaR is an [R](https://www.r-project.org) package to read and import metadata from [Micromanager](https://micro-manager.org) in R
+metaR is an [R](https://www.r-project.org) package to read and import in R metadata accompanying TIFF images from [Micromanager](https://micro-manager.org) 
 
 ---
 ### License
