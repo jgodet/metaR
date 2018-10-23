@@ -1,0 +1,11 @@
+Package: metaR
+Type: Package
+Title: Read Micromanager Metadata
+Version: 0.1.0
+Author: Julien Godet
+Maintainer: Julien Godet <julien.godet@unistra.fr>
+Description: Micromanager generates metadata files storing microscopes acquisition parameters.    metaR gathered a collection of functions to easily read and extract these data.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
