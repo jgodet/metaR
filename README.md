@@ -7,7 +7,7 @@ metaR is an [R](https://www.r-project.org) package to read and import in R metad
 
 
 ---
-##How to install metaR
+## How to install metaR
 
 ```r
 install.packages("devtools")
